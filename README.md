@@ -1,50 +1,35 @@
+# [cite_start]Hi there 👋, I'm Arindam Roy [cite: 1]
 
-<!--
-**Arindam-Roy2004/Arindam-Roy2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋, I'm Arindam Roy!
-
-I'm a B-Tech student at NIT Silchar, passionate about software development and exploring new technologies. I enjoy building projects and learning new skills.
-
-## 🚀 About Me
-
-* 🌱 I’m currently learning more about AI and web development.
-* 👯 I’m looking to collaborate on interesting projects.
-* 📫 You can reach me at: **royarindam2402@gmail.com**
+[cite_start]I am a passionate and driven Bachelor of Technology student in Electronics and Instrumentation Engineering at NIT Silchar, graduating in June 2025[cite: 5]. [cite_start]I have a strong foundation in software development and problem-solving, with a keen interest in competitive programming[cite: 32].
 
 ## 🔗 Connect with me
+* [cite_start]**Email:** arindam@ei.nits.ac.in [cite: 6]
+* [cite_start]**LinkedIn:** [Arindam Roy](https://www.linkedin.com/in/arindam-roy-343a0119a/) [cite: 3]
+* [cite_start]**LeetCode:** [Arindam Roy](https://leetcode.com/Arindam-Roy/) [cite: 2]
+* [cite_start]**GitHub:** [Arindam-Roy](https://github.com/Arindam-Roy) [cite: 3]
 
-<p align="left">
-<a href="https://www.linkedin.com/in/arindam-roy-343a0119a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arindam-roy-343a0119a" height="30" width="40" /></a>
-</p>
+## 🛠️ Skills & Technologies
 
-## 💻 My Skills
+* [cite_start]**Languages:** Python, Java, JavaScript, SQL, HTML, CSS [cite: 22]
+* [cite_start]**Frameworks & Libraries:** Scikit-learn, NLTK, Node.js, Express.js, Bootstrap, Pydantic, Streamlit, LangChain, LangGraph [cite: 23]
+* [cite_start]**Databases:** MongoDB, MySQL [cite: 24]
+* [cite_start]**Platforms & Tools:** Windows, Arduino, AWS [cite: 25][cite_start], Git, GitHub, Postman [cite: 15]
+* [cite_start]**Soft Skills:** Leadership, Public Speaking, Time Management [cite: 26]
 
-* **Languages:** Python, JavaScript, HTML
-* **Frameworks and Libraries:** (You can add any frameworks you know here, e.g., React, Node.js, Django, etc.)
-* **Tools:** Git, GitHub
+## 🏆 Achievements
 
-## 🔭 My Projects
+* [cite_start]Ranked 95 in a LeetCode Weekly Contest in February 2025[cite: 28].
+* [cite_start]Achieved a contest rating of 1700+ in LeetCode in February 2025[cite: 29].
+* [cite_start]Solved more than 250 problems across various platforms[cite: 30].
 
-Here are some of the projects I've worked on:
+## 🔭 Featured Project
 
-* **[Ai-ticket-assistant](https://github.com/Arindam-Roy2004/Ai-ticket-assistant):** A ticket assistant built with AI.
-* **[Rag](https://github.com/Arindam-Roy2004/Rag):** A basic Rag implementation in a chatbot.
-* **[Simple-Financial-Agent](https://github.com/Arindam-Roy2004/Simple-Financial-Agent):** A simple financial agent project.
-* **[weather-info](https://github.com/Arindam-Roy2004/weather-info):** A simple web app to display weather information.
-* **[weather_bot](https://github.com/Arindam-Roy2004/weather_bot):** My first project, a weather bot.
-* **[Quiz-App](https://github.com/Arindam-Roy2004/Quiz-App):** A basic quiz application.
+### [cite_start][AI-Ticket-Assistant: Smart AI-Powered Ticket Management System](https://github.com/Arindam-Roy2004/Ai-ticket-assistant) [cite: 8]
+* [cite_start]**Timeline:** April 2025 - May 2025 [cite: 9, 10]
+* [cite_start]Developed a full-stack AI-driven web application using Node.js, Express, MongoDB, and the Google Gemini API[cite: 11].
+* [cite_start]Integrated AI to analyze ticket content and automatically generate metadata, including priority level and required skills[cite: 12].
+* [cite_start]Implemented secure, role-based access control (User, Moderator, Admin) with JWT-based authentication[cite: 13].
+* [cite_start]Utilized Inngest for event-driven asynchronous processing and Nodemailer for automated email notifications[cite: 14].
 
 ## 📊 My GitHub Stats
 
