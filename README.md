@@ -1,12 +1,11 @@
 # Hi there 👋, I'm Arindam Roy
 
-I am a passionate and driven Bachelor of Technology student in Electronics and Instrumentation Engineering at NIT Silchar, graduating in June 2025. I have a strong foundation in software development and problem-solving, with a keen interest in competitive programming.
+I am a passionate and driven Bachelor of Technology student in Electronics and Instrumentation Engineering at NIT Silchar, graduating in 2027. I have a strong foundation in software development and problem-solving, with a keen interest in competitive programming.
 
 ## 🔗 Connect with me
 * **Email:** arindam_ug_23@ei.nits.ac.in
 * **LinkedIn:** [Arindam Roy](https://www.linkedin.com/in/arindam-roy-343a0119a/)
 * **LeetCode:** [Arindam Roy](https://leetcode.com/Arindam-Roy/)
-* **GitHub:** [Arindam-Roy](https://github.com/Arindam-Roy)
 
 ## 🛠️ Skills & Technologies
 
