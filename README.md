@@ -5,7 +5,7 @@ I am a passionate and driven Bachelor of Technology student in Electronics and I
 ## 🔗 Connect with me
 * **Email:** arindam_ug_23@ei.nits.ac.in
 * **LinkedIn:** [Arindam Roy](https://www.linkedin.com/in/arindam-roy-343a0119a/)
-* **LeetCode:** [Arindam Roy](https://leetcode.com/Arindam-Roy/)
+* **LeetCode:** [Arindam Roy](https://leetcode.com/u/Vladmir_Protein/)
 
 ## 🛠️ Skills & Technologies
 
