@@ -88,3 +88,7 @@ I am a passionate and driven Bachelor of Technology student in Electronics and I
 
 ![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arindam-Roy2004&show_icons=true&theme=radical)
 
+<p align="center">
+  <img src="https://github.com/k-g-prajwal/k-g-prajwal/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
