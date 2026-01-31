@@ -9,10 +9,13 @@
       </p>
       <p align="left" style="margin-top: 15px;">
         <a href="https://www.linkedin.com/in/arindam-roy-343a0119a/" target="blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
         <a href="https://leetcode.com/u/Vladmir_Protein/" target="blank">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+        </a>
+        <a href="https://royarindamportfolio.vercel.app/" target="blank">
+          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
     </td>
@@ -47,7 +50,6 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3B85B8?style=for-the-badge&logo=python&logoColor=white)
 
-
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -65,49 +67,16 @@
 
 ---
 
-## 🔭 Featured Project
-
-### [AI-Ticket-Assistant: Smart AI-Powered Ticket Management System](https://github.com/Arindam-Roy2004/Ai-ticket-assistant)
-* **Timeline:** April 2025 - May 2025
-* Developed a full-stack AI-driven web application using Node.js, Express, MongoDB, and the Google Gemini API.
-* Integrated AI to analyze ticket content and automatically generate metadata, including priority level and required skills.
-* Implemented secure, role-based access control (User, Moderator, Admin) with JWT-based authentication.
-* Utilized Inngest for event-driven asynchronous processing and Nodemailer for automated email notifications.
-    
----
-
-## 🏆 Achievements
-
-* Ranked 95 in a LeetCode Weekly Contest in February 2025.
-* Achieved a contest rating of 1700+ in LeetCode in February 2025.
-* Successfully solved over 250 coding problems on various platforms.
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arindam-Roy2004&show_icons=true&theme=merko&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arindam-Roy2004&layout=pie&theme=merko&hide_border=true&count_private=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arindam-Roy2004&theme=github-dark&bg_color=0D1117&color=54FC00&line=54FC00&point=54FC00" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arindam-Roy2004&theme=onestar&margin-w=5&no-frame=true" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/k-g-prajwal/k-g-prajwal/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arindam-roy-343a0119a/" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="30" width="40" /></a>
-  <a href="mailto:arindam_ug_23@ei.nits.ac.in" target="blank"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/arindam-roy-343a0119a/" target="blank">
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:arindam_ug_23@ei.nits.ac.in" target="blank">
+    <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="30" width="40" />
+  </a>
+  <a href="https://royarindamportfolio.vercel.app/" target="blank">
+    <img src="https://www.svgrepo.com/show/349503/web.svg" height="30" width="40" />
+  </a>
 </p>
