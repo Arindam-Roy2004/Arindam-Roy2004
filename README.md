@@ -14,7 +14,7 @@
         <a href="https://leetcode.com/u/Vladmir_Protein/" target="blank">
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
         </a>
-        <a href="https://royarindamportfolio.vercel.app/" target="blank">
+        <a href="https://royarindam.page/" target="blank">
           <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
         </a>
       </p>
