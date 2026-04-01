@@ -68,12 +68,23 @@
 
 ## 🔭 Featured Project
 
-### [AI-Ticket-Assistant: Smart AI-Powered Ticket Management System](https://github.com/Arindam-Roy2004/Ai-ticket-assistant)
-* **Timeline:** April 2025 - May 2025
-* Developed a full-stack AI-driven web application using Node.js, Express, MongoDB, and the Google Gemini API.
-* Integrated AI to analyze ticket content and automatically generate metadata, including priority level and required skills.
-* Implemented secure, role-based access control (User, Moderator, Admin) with JWT-based authentication.
-* Utilized Inngest for event-driven asynchronous processing and Nodemailer for automated email notifications.
+### [OS-project](https://github.com/Arindam-Roy2004/OS-project)
+* Simulation of core operating system concepts like process scheduling and memory management using JavaScript.
+
+### [yt-focus-mode](https://github.com/Arindam-Roy2004/yt-focus-mode)
+* Chrome extension to remove distractions from YouTube and enable a focused learning experience.
+
+### [airbnb_clone](https://github.com/Arindam-Roy2004/airbnb_clone)
+* Full-stack Airbnb clone with listing, booking, and user authentication features using Node.js and EJS.
+
+### [wordle-ai-game](https://github.com/Arindam-Roy2004/wordle-ai-game)
+* Interactive Wordle game with AI-based logic and TypeScript implementation.
+
+### [dark-mode](https://github.com/Arindam-Roy2004/dark-mode)
+* Lightweight dark mode toggle with persistent theme switching and smooth UI transitions.
+
+### [JSON-formatter](https://github.com/Arindam-Roy2004/JSON-formatter)
+* Developer tool to format, validate, and beautify JSON data for better readability.
     
 ---
 
